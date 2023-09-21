@@ -11,6 +11,7 @@ _________________________________
  - WinRAR updates can be installed directly without having to activate again.
 
  - If you are facing difficulties with the one-liner, you can also use the manual solution.
+
 _________________________________
 
 ###   OS requirement: Windows 7, 8, 8.1, 10 & 11
@@ -31,6 +32,7 @@ iwr -useb https://bgamez23.github.io/WinRAR-Activation-Script/WAS.ps1 | iex
 You will see the activation options, and follow onscreen instructions.
 
 That's all.
+
 _________________________________
 
  - Project is supported only for Windows 7/8/8.1/10/11 and their Server equivalent.
@@ -55,7 +57,7 @@ _________________________________
 
    - If you were previously using a repack, please uninstall it first.
      
-   - If you're unable to properly remove the older WinRAR from everywhere (including registry), try using Revo Uninstaller Pro to scan and delete file and registry remnants.
+   - If you cannot properly remove the older WinRAR from everywhere (including registry), try using Revo Uninstaller Pro to scan and delete file and registry remnants.
 
    - Make sure the latest original WinRAR setup is used for the installation.
      
@@ -75,3 +77,4 @@ _________________________________
 |---|---|
 | @bitcookies | Keygen for generating WinRAR licenses. |
 | | https://github.com/bitcookies/winrar-keygen |
+| Brynner | For this automatic script activation, and ease of use. |
